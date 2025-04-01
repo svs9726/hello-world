@@ -1,0 +1,13 @@
+estimate: 25 lines
+
+place a slice of bread
+open a jar of peanut butter
+pick up the butter knife
+scoop peanut butter with the butter knife
+apply pb from knife to bread
+place a slide of bread
+open a jar of jelly
+pick up the butter knife
+scoop up some jelly with the butter knife
+apply jelly from the knife to the bread
+join both slices of bread with the peanut butter and jelly touching each other
